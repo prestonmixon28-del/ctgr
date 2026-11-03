@@ -1,10 +1,5 @@
-Deer
+Deer 
 Fox
 Rabbit
-Deer
 Eagle
 Bear
-Fox
-Deer
-Wolf
-Rabbit
